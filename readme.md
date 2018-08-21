@@ -1,4 +1,4 @@
-# vue-component-generator
+# vue-comp-generator
 CLI utility function for creating Vue.js templates.
 
 ## Installation
@@ -41,7 +41,6 @@ $ vuegc route-home
 Feel free to change the generated templates which are located here.
 
 * /usr/local/lib/node_modules/vue-comp-generator/
-* /usr/local/lib/node_modules/vue-component-generator/
 
 ## Windows Template
 

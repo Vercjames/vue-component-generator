@@ -1,6 +1,6 @@
 {
   "name": "vue-comp-generator",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "https://github.com/vercjames",
   "description": "CLI utility function for creating Vue.js templates.",
   "repository": "https://github.com/vercjames/vue-component-generator",

@@ -4,7 +4,7 @@
 <template>
   <section>
     <main>
-      {{bubbles}}
+
     </main>
   </section>
 </template>
