@@ -1,0 +1,16 @@
+{
+  "name": "vue-component-generator",
+  "version": "1.0.0",
+  "author": "https://github.com/vercjames",
+  "description": "CLI utility function for creating Vue.js templates.",
+  "repository": "https://github.com/vercjames/vue-component-generator",
+  "main": "index.js",
+  "license": "ISC",
+  "private": false,
+  "bin": {
+    "vuegc": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
