@@ -40,8 +40,8 @@ else {
     folderName = answers["component-name"];
 
     // Handle "-" Format
-    if (projectName.includes("-")) {
-      componentName = projectName.substring(projectName.indexOf("-") + 1);
+    if (folderName.includes("-")) {
+      fileName = fileName.substring(fileName.indexOf("-") + 1);
     }
 
     createStructure(folderName, fileName)
